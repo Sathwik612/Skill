@@ -12,4 +12,8 @@ class employee:
 #creating an instance /obg
 sam=employee()
 print(sam.slary) 
-sam.travel("mysore")   
+sam.travel("mysore") 
+
+
+from oops_proj import chatbook
+user1 =chatbook()  
